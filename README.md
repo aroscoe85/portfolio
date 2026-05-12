@@ -1,5 +1,3 @@
-# 🌟 BP0323738 Data Scientist Portfolio
-
 ## 👋 About Me
 I’m a **Apprentice Data Scientist** studying at BPP University.
 
