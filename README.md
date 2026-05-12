@@ -17,8 +17,8 @@ So far in my Data Science journey I have learnt about:
 ## 🚀 Projects
 
 - **Calorie Burn Predictor**  
-  A linear regression to understand the varaibles which affect calorie burn on a outdoor walk:
-  🔗 [https://medium.com/geoai/house-hunting-the-data-scientist-way-b32d93f5a42f](https://github.com/aroscoe85/portfolio/blob/main/CALORIES%20LINEAR%20REGRESSION/Calories%20Burnt%20Linear%20Regression.ipynb)
+  A linear regression to understand the variables which affect calorie burn on an outdoor walk:
+  🔗 [Outdoor Walk Calorie Predictor](https://github.com/aroscoe85/portfolio/blob/main/CALORIES%20LINEAR%20REGRESSION/Calories%20Burnt%20Linear%20Regression.ipynb)
 
 ---
 
@@ -27,9 +27,3 @@ So far in my Data Science journey I have learnt about:
 - **ML & Stats:** Regression, Clustering, Time Series  
 - **Tools:** scikit‑learn 
 - **Cloud:** Databricks
-
----
-
-## 📫 Contact
-- **LinkedIn:** Add your link here  
-- **Email:** your.email@example.com
