@@ -1,8 +1,6 @@
 ## 👋 About Me
 I’m a **Apprentice Data Scientist** studying at BPP University.
 
-I enjoy building models and nice looking visuals to help communicate stories.
-
 So far in my Data Science journey I have learnt about:
 
 **Data Infrastructure**, **Data Engineering**, **Data Visualisations** and **Machine Learning Predictive Analytics**
